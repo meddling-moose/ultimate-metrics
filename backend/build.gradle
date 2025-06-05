@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'frisbee'
+version = '1.0'
+
+application {
+    // Main class will be located at src/main/java/Application.java
+    mainClass = 'Application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Add more later as needed (e.g. for CSV)
+    testImplementation 'junit:junit:4.13.2'
+}
