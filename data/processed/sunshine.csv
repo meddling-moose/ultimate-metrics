@@ -1,0 +1,25 @@
+game,point,tournament,opponent,timestamp,score,gendermatch,starting,force,opp_force,offense_set,defense_set,players,num_throws_opp,num_breaks_opp,num_throws_pbr,num_breaks_pbr,num_turns,num_blocks,scoring_team,goal,assist,hockey_assist,score_notes,notes
+g001,p001,rr1,sunshine,3:11,1-0,f2,o,,flick,hostack,,"aviva,malia,jess,carol,crawford,orion,jack",5.0,0.0,15.0,0.0,4,0.0,pbr,,,,,
+g001,p002,rr1,sunshine,5:19,2-0,c1,d,flick,,,person,"jesse,visakha,monica,sawyer,emmet,jonah,selim",8.0,1.0,6.0,1.0,1,1.0,pbr,Sawyer,Monica,Visakha,worked to breakside and scored on an away shot,point started before timestamp; missing film
+g001,p003,rr1,sunshine,6:16,3-0,c2,d,flick,,,person,"molly,ruby,monica,tristan,lincoln,devin,seamus",1.0,0.0,2.0,0.0,1,1.0,pbr,Lincoln,Monica,Tristan,slashing breakside under into huck,short pull? Play starts at half field
+g001,p004,rr1,sunshine,,4-0,f1,d,,,,,"cass,margo,ash,emma,eric,selim,yeagle",,,,,1,,pbr,Margo,Yeagle,,,Point is missing in film
+g001,p005,rr1,sunshine,,5-0,f2,d,,,,,"courtney,tuna,monica,vail,tristan,saul,princess",,,,,1,,pbr,Saul,Monica,,,Point is missing in film
+g001,p006,rr1,sunshine,6:46,5-1,c1,d,flick,,,person,"jess,ruby,visakha,crawford,lincoln,juleon,jack",9.0,1.0,0.0,0.0,0,0.0,sunshine,,,,"Huck just outside endzone, worked it to the opposite side front cone",This is point four of the film
+g001,p007,rr1,sunshine,7:33,5-2,c2,o,,flick,sidestack,,"aviva,malia,carol,emmet,saul,juleon,seamus",3.0,0.0,4.0,1.0,1,0.0,sunshine,,,,"Full-field huck, worked it in",
+g001,p008,rr1,sunshine,8:23,6-2,f1,o,,flick,sidestack,,"courtney,cass,margo,tuna,eric,orion,jonah",6.0,2.0,6.0,1.0,1,1.0,pbr,Courtney,Tuna,Jonah,,
+g001,p009,rr1,sunshine,9:25,6-3,f2,d,backhand,,,person,"jesse,molly,ash,sara,tristan,devin,sawyer",17.0,6.0,11.0,4.0,6,2.0,sunshine,,,,broken four straight times including a huck,
+g001,p010,rr1,sunshine,12:59,7-3,c1,o,,flick,sidestack,,"aviva,ruby,emma,crawford,selim,yeagle,princess",6.0,3.0,15.0,4.0,3,1.0,pbr,Yeagle,Emma,Aviva,"huck caught just outside of endzone, yeagle 1on1 in the endzone caught on breakside",
+g001,p011,rr1,sunshine,15:30,8-3,c2,d,flick,,,person,"courtney,visakha,vail,emmet,lincoln,jack,jonah",5.0,0.0,8.0,3.0,1,0.0,pbr,Jack,Lincoln,Courtney,Break throw (15 yards) to the endzone,We don't set the mark fast enough. They get three open throws before we put on a mark.
+g001,p012,rr1,sunshine,17:02,8-4,f1,d,flick,,,person,"malia,cass,jess,monica,eric,saul,seamus",3.0,1.0,8.0,3.0,2,0.0,sunshine,,,,huck to the force side completed in the endzone,
+g001,p013,rr1,sunshine,18:18,9-4,f2,o,,backhand,hostack,,"jesse,margo,tuna,ash,tristan,selim,juleon",0.0,0.0,1.0,1.0,0,0.0,pbr,Juleon,Margo,,huck to juleon down the line (unclear force),the point only had one throw in it. Missing film
+g001,p014,rr1,sunshine,18:29,9-5,c1,d,flick,,,person,"aviva,ruby,sara,crawford,lincoln,yeagle,devin",7.0,4.0,0.0,0.0,0,0.0,sunshine,,,,three breaks into a breakside huck to score,
+g001,p015,rr1,sunshine,19:04,10-5,c2,o,,flick,,,"aviva,cass,emma,emmet,orion,jack,sawyer",10.0,3.0,19.0,7.0,4,0.0,pbr,Aviva,Sawyer,Emmet,break throw (inside) to the endzone,point started before timestamp; missing film
+g001,p016,rr1,sunshine,21:52,10-6,f1,d,flick,,,person,"courtney,molly,monica,vail,eric,seamus,jonah",1.0,0.0,0.0,0.0,0,0.0,sunshine,,,,fullfield huck off the pull,
+g001,p017,rr1,sunshine,22:08,10-7,f2,o,,backhand,hostack,,"malia,molly,jess,tuna,tristan,selim,yeagle",13.0,5.0,5.0,1.0,1,0.0,sunshine,,,,worked it up the open side after completing a 30 yard away shot,
+g001,p018,rr1,sunshine,23:28,11-7,c1,o,,backhand,hostack,,"jesse,ruby,sara,crawford,emmet,juleon,princess",1.0,0.0,9.0,1.0,1,1.0,pbr,Crawford,Juleon,Jesse,scoober to the breakside in the endzone,
+g001,p019,rr1,sunshine,24:26,12-7,c2,d,flick,,,person,"cass,ash,visakha,tristan,lincoln,devin,jonah",1.0,0.0,4.0,0.0,1,0.0,pbr,Tristan,Cass,Lincoln,open side motion off a short field turnover,
+g001,p020,rr1,sunshine,24:55,12-8,f1,d,flick,,,person,"courtney,jess,margo,vail,eric,selim,seamus",3.0,0.0,0.0,0.0,0,0.0,sunshine,,,,open side same 3rd huck,
+g001,p021,rr1,sunshine,25:08,13-8,f2,o,,flick,hostack,,"aviva,malia,carol,emma,emmet,orion,yeagle",13.0,4.0,10.0,1.0,4,1.0,pbr,Orion,Carol,Emmet,open side huck out to space for Orion,
+g001,p022,rr1,sunshine,27:20,13-9,c1,d,flick,,,person,"jesse,molly,monica,lincoln,jack,sawyer,princess",7.0,2.0,0.0,0.0,0,0.0,sunshine,,,,worked it in after huck completed just outside the endzone,
+g001,p023,rr1,sunshine,27:45,14-9,c2,o,,flick,,,"cass,tuna,ruby,crawford,selim,juleon,seamus",3.0,0.0,11.0,5.0,2,0.0,pbr,Ruby,Crawford,Tuna,break throw to front corner of the endzone,
+g001,p024,rr1,sunshine,28:56,15-9,f1,d,flick,,,person,"courtney,margo,ash,vail,eric,tristan,devin",3.0,1.0,6.0,4.0,1,0.0,pbr,Margo,Ash,Devin,"huck up the break side, margo capitlaized on slow defense",
